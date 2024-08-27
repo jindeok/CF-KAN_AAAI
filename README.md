@@ -47,15 +47,6 @@ We comprehensively compare CF-KAN with the following categories of recommendatio
 
 
 
-If you found this project is helpful for your research, please STAR this repository
-
-
-## Citation
-If our work was helpful for your project, cite our work :)
-
-** Once the paper is uploaded to arXiv soon, we will provide instructions on how to cite it.
-
-
 ## Etc.
 For the implementation of KANs, I've referred to the following repos: [EfficentKAN](https://github.com/Blealtan/efficient-kan), [Visualization API](https://github.com/KindXiaoming/pykan)
 
